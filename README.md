@@ -50,3 +50,5 @@ The flood of print has turned reading into a process of gulping rather than savo
 Handle the following custom conversion specifier:
 
 All the above options work well together.
+
+Printf TEAM PROJECT by Shydo and Avvan.
